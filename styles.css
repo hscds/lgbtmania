@@ -802,7 +802,7 @@ main.container-filmes,
 /* Título com efeito de brilho */
 .individuais h2 {
   position: relative;
-  font-size: 2.4rem;
+  font-size: 2.1rem;
   text-transform: uppercase;
   letter-spacing: 3px;
   text-align: center;
@@ -950,4 +950,5 @@ main.container-filmes,
   .imagem-individuais:active img {
     opacity: 0;
   }
+
 }
